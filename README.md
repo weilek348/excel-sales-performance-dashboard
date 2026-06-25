@@ -18,7 +18,7 @@
 ## Tools and Techniques 
 
 ### Interactive Sales Dashboard
-*Used `slicers`, `Report Connections`, `PivotCharts`, and `linked KPI displays` to create a clear and filterable view of sales performance.*
+*Used `slicers`, `Report Connections`, `PivotCharts`, and `linked KPI displays` to create a clear and filterable view of sales performance.*  
 [<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/b5c0b0af-20ba-4a7d-a728-a4a60dafd7a4" />
 ](https://github.com/weilek348/excel-sales-performance-dashboard/blob/main/snapshot/Interractive%20Sales%20Dashboard.png?raw=true)
 <br><br>
@@ -30,13 +30,13 @@
 <br><br>
 
 **Dynamic PivotCharts**  
-*Display monthly sales and order trends, quarterly performance, and geographical sales results that update with the selected filters.*
+*Display monthly sales and order trends, quarterly performance, and geographical sales results that update with the selected filters.*   
 [<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/b4475ffa-680d-4b4d-b961-1d7291a73346" />
 ](https://github.com/weilek348/excel-sales-performance-dashboard/blob/main/snapshot/2019%20Pivot%20Charts.png?raw=true)
 <br><br>
 
 **Linked KPI Displays**  
-*Provide an immediate summary of total sales performance and year-on-year growth or decline.*
+*Provide an immediate summary of total sales performance and year-on-year growth or decline.*  
 [<img width="600" height="105" alt="image" src="https://github.com/user-attachments/assets/4ff0cac0-88bf-4e26-9b5d-fcbf40fd388c" />
 ](https://github.com/weilek348/excel-sales-performance-dashboard/blob/main/snapshot/linkedKPI.png?raw=true)
 <br><br><br>
@@ -51,19 +51,19 @@
 *Display each salesperson's monthly sales pattern in a single cell while highlighting the highest and lowest points.*
 <br><br>
 **Conditional Formatting**  
-*Highlights negative, below-average, and above-average growth while also identifying the selected salesperson.*
+*Highlights negative, below-average, and above-average growth while also identifying the selected salesperson.*  
 [<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/d1425fa7-bdb9-46a4-aac6-1947393a202e" />
 ](https://github.com/weilek348/excel-sales-performance-dashboard/blob/main/snapshot/sparkines%20and%20conditional%20formating.png?raw=true)
 <br><br>
 
 **Bubble Charts**  
-*Use location and bubble size to show top 3 countries with the strongest sales concentrations.* 
+*Use location and bubble size to show top 3 countries with the strongest sales concentrations.*  
 [<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/2c41c9c3-6ac6-416a-955b-f4b6adcd6d49" />
 ](https://github.com/weilek348/excel-sales-performance-dashboard/blob/main/snapshot/bubble%20chart.png?raw=true)
 <br><br>
 
 **Treemap**  
-*Groups countries by region and compares their contribution to total sales.*
+*Groups countries by region and compares their contribution to total sales.*  
 [<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/eb05d9a9-2715-45da-925b-f236611b59c7" />
 ](https://github.com/weilek348/excel-sales-performance-dashboard/blob/main/snapshot/treemap.png?raw=true)
 <br><br>
